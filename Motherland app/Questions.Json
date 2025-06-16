@@ -1,0 +1,238 @@
+[
+  {
+    "question": "Quel pays africain a la plus grande population ?",
+    "options": ["Égypte", "Nigeria", "Afrique du Sud", "Éthiopie"],
+    "reponse": "Nigeria"
+  },
+  {
+    "question": "Qui est considéré comme le père de l'Afrobeat ?",
+    "options": ["Wizkid", "Fela Kuti", "Youssou N'Dour", "Alpha Blondy"],
+    "reponse": "Fela Kuti"
+  },
+  {
+    "question": "Quel est le plus haut sommet d’Afrique ?",
+    "options": ["Mont Cameroun", "Mont Kenya", "Kilimandjaro", "Mont Elgon"],
+    "reponse": "Kilimandjaro"
+  },
+  {
+    "question": "Quel pays africain a remporté la CAN 2022 ?",
+    "options": ["Égypte", "Sénégal", "Cameroun", "Algérie"],
+    "reponse": "Sénégal"
+  },
+  {
+    "question": "Quel chanteur congolais est surnommé le roi de la rumba ?",
+    "options": ["Koffi Olomidé", "Papa Wemba", "Fally Ipupa", "Werrason"],
+    "reponse": "Papa Wemba"
+  },
+  {
+    "question": "Quel est le pays africain ayant le plus de langues parlées ?",
+    "options": ["Nigeria", "Cameroun", "RD Congo", "Afrique du Sud"],
+    "reponse": "Nigeria"
+  },
+  {
+    "question": "Qui est la première femme présidente élue en Afrique ?",
+    "options": ["Ellen Johnson Sirleaf", "Joyce Banda", "Ameenah Gurib-Fakim", "Samia Suluhu Hassan"],
+    "reponse": "Ellen Johnson Sirleaf"
+  },
+  {
+    "question": "Quel pays est surnommé le berceau de l'humanité ?",
+    "options": ["Éthiopie", "Kenya", "Afrique du Sud", "Tanzanie"],
+    "reponse": "Éthiopie"
+  },
+  {
+    "question": "Quel est le pays africain le plus riche en PIB global ?",
+    "options": ["Afrique du Sud", "Égypte", "Nigéria", "Algérie"],
+    "reponse": "Nigéria"
+  },
+  {
+    "question": "Qui a été le premier président noir d'Afrique du Sud ?",
+    "options": ["Thabo Mbeki", "Nelson Mandela", "Cyril Ramaphosa", "Jacob Zuma"],
+    "reponse": "Nelson Mandela"
+  },
+  {
+    "question": "Quel célèbre musicien ivoirien est connu pour le reggae ?",
+    "options": ["Tiken Jah Fakoly", "Magic System", "Alpha Blondy", "Dobet Gnahoré"],
+    "reponse": "Alpha Blondy"
+  },
+  {
+    "question": "Quelle ville africaine est surnommée la Silicon Valley de l’Afrique ?",
+    "options": ["Lagos", "Nairobi", "Le Caire", "Accra"],
+    "reponse": "Nairobi"
+  },
+  {
+    "question": "Quel homme d’affaires nigérian est l’un des plus riches d’Afrique ?",
+    "options": ["Mohammed Dewji", "Mike Adenuga", "Strive Masiyiwa", "Aliko Dangote"],
+    "reponse": "Aliko Dangote"
+  },
+  {
+    "question": "Quel pays possède le plus grand désert du monde après l’Antarctique ?",
+    "options": ["Tchad", "Libye", "Soudan", "Algérie"],
+    "reponse": "Algérie"
+  },
+  {
+    "question": "Quel artiste sénégalais a reçu de nombreux prix pour son engagement et sa musique ?",
+    "options": ["Akon", "Youssou N'Dour", "Wally Seck", "Baaba Maal"],
+    "reponse": "Youssou N'Dour"
+  },
+  {
+    "question": "Quel pays est reconnu pour son système éducatif performant en Afrique ?",
+    "options": ["Rwanda", "Kenya", "Afrique du Sud", "Tunisie"],
+    "reponse": "Rwanda"
+  },
+  {
+    "question": "Quelle ville est considérée comme la plus grande métropole d'Afrique ?",
+    "options": ["Johannesburg", "Le Caire", "Lagos", "Kinshasa"],
+    "reponse": "Lagos"
+  },
+  {
+    "question": "Quel président éthiopien a reçu le prix Nobel de la paix en 2019 ?",
+    "options": ["Abiy Ahmed", "Hailemariam Desalegn", "Meles Zenawi", "Mengistu Haile Mariam"],
+    "reponse": "Abiy Ahmed"
+  },
+  {
+    "question": "Quel pays est le premier producteur mondial de cacao ?",
+    "options": ["Nigéria", "Côte d'Ivoire", "Ghana", "Cameroun"],
+    "reponse": "Côte d'Ivoire"
+  },
+  {
+    "question": "Quel fleuve est le plus long d’Afrique ?",
+    "options": ["Nil", "Congo", "Niger", "Zambèze"],
+    "reponse": "Nil"
+  },
+  {
+        "question": "Quelle est la capitale de l'Érythrée ?",
+        "options": ["Asmara", "Mogadiscio", "Kampala", "Djibouti"],
+        "reponse": "Asmara"
+    },
+    {
+        "question": "Quelle île africaine est connue pour ses lémuriens ?",
+        "options": ["Seychelles", "Maurice", "Cap-Vert", "Madagascar"],
+        "reponse": "Madagascar"
+    },
+    {
+        "question": "Quel pays africain possède le plus de langues parlées ?",
+        "options": ["Cameroun", "Nigeria", "Éthiopie", "Afrique du Sud"],
+        "reponse": "Nigeria"
+    },
+    {
+        "question": "Dans quel pays trouve-t-on le parc national des Virunga ?",
+        "options": ["Rwanda", "Ouganda", "Burundi", "Congo (RDC)"],
+        "reponse": "Congo (RDC)"
+    },
+    {
+        "question": "Quel pays est traversé par le fleuve Okavango ?",
+        "options": ["Botswana", "Zimbabwe", "Zambie", "Namibie"],
+        "reponse": "Botswana"
+    },
+    {
+        "question": "Quelle est la ville portuaire principale de la Somalie ?",
+        "options": ["Mogadiscio", "Hargeisa", "Berbera", "Kismaayo"],
+        "reponse": "Mogadiscio"
+    },
+    {
+        "question": "Quel pays a pour devise « Unité, Travail, Progrès » ?",
+        "options": ["Cameroun", "Congo (RDC)", "Burkina Faso", "Tchad"],
+        "reponse": "Tchad"
+    },
+  {
+    "question": "Quelle est la capitale du Sénégal ?",
+    "options": ["Dakar", "Bamako", "Abidjan", "Niamey"],
+    "reponse": "Dakar"
+  },
+  {
+    "question": "Quelle est la capitale de la Côte d'Ivoire ?",
+    "options": ["Abidjan", "Yamoussoukro", "Ouagadougou", "Accra"],
+    "reponse": "Yamoussoukro"
+  },
+  {
+    "question": "Quelle est la capitale du Nigeria ?",
+    "options": ["Lagos", "Kano", "Abuja", "Port Harcourt"],
+    "reponse": "Abuja"
+  },
+  {
+    "question": "Quelle est la capitale de l'Égypte ?",
+    "options": ["Le Caire", "Alexandrie", "Gizeh", "Louxor"],
+    "reponse": "Le Caire"
+  },
+  {
+    "question": "Quelle est la capitale du Maroc ?",
+    "options": ["Rabat", "Casablanca", "Marrakech", "Fès"],
+    "reponse": "Rabat"
+  },
+  {
+    "question": "Quelle est la capitale de l'Algérie ?",
+    "options": ["Oran", "Alger", "Constantine", "Tizi Ouzou"],
+    "reponse": "Alger"
+  },
+  {
+    "question": "Quelle est la capitale du Kenya ?",
+    "options": ["Nairobi", "Mombasa", "Kisumu", "Eldoret"],
+    "reponse": "Nairobi"
+  },
+  {
+    "question": "Quelle est la capitale du Ghana ?",
+    "options": ["Accra", "Kumasi", "Tamale", "Takoradi"],
+    "reponse": "Accra"
+  },
+  {
+    "question": "Quelle est la capitale du Mali ?",
+    "options": ["Bamako", "Sikasso", "Kayes", "Tombouctou"],
+    "reponse": "Bamako"
+  },
+  {
+    "question": "Quelle est la capitale du Cameroun ?",
+    "options": ["Yaoundé", "Douala", "Garoua", "Bafoussam"],
+    "reponse": "Yaoundé"
+  },
+  {
+    "question": "Quelle est la capitale du Burkina Faso ?",
+    "options": ["Ouagadougou", "Bobo-Dioulasso", "Koudougou", "Banfora"],
+    "reponse": "Ouagadougou"
+  },
+  {
+    "question": "Quelle est la capitale du Niger ?",
+    "options": ["Niamey", "Zinder", "Agadez", "Maradi"],
+    "reponse": "Niamey"
+  },
+  {
+    "question": "Quelle est la capitale du Tchad ?",
+    "options": ["N'Djamena", "Moundou", "Abeché", "Sarh"],
+    "reponse": "N'Djamena"
+  },
+  {
+    "question": "Quelle est la capitale de l'Éthiopie ?",
+    "options": ["Addis-Abeba", "Gondar", "Mekele", "Dire Dawa"],
+    "reponse": "Addis-Abeba"
+  },
+  {
+    "question": "Quelle est la capitale de la République Démocratique du Congo ?",
+    "options": ["Kinshasa", "Lubumbashi", "Goma", "Kisangani"],
+    "reponse": "Kinshasa"
+  },
+  {
+    "question": "Quelle est la capitale du Rwanda ?",
+    "options": ["Kigali", "Butare", "Gisenyi", "Ruhengeri"],
+    "reponse": "Kigali"
+  },
+  {
+    "question": "Quelle est la capitale de la Tunisie ?",
+    "options": ["Tunis", "Sfax", "Sousse", "Bizerte"],
+    "reponse": "Tunis"
+  },
+  {
+    "question": "Quelle est la capitale du Bénin ?",
+    "options": ["Porto-Novo", "Cotonou", "Parakou", "Abomey"],
+    "reponse": "Porto-Novo"
+  },
+  {
+    "question": "Quelle est la capitale du Mozambique ?",
+    "options": ["Maputo", "Beira", "Nampula", "Quelimane"],
+    "reponse": "Maputo"
+  },
+  {
+    "question": "Quelle est la capitale de l'Afrique du Sud ?",
+    "options": ["Pretoria", "Le Cap", "Johannesburg", "Durban"],
+    "reponse": "Pretoria"
+  }
+]
+
